@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SendMMSDroid</string>
+    <string name="lab_send_sms">Send SMS</string>
+    <string name="lab_send_mms_intent">Send MMS (Intent)</string>
+    <string name="lab_to">To:</string>
+    <string name="lab_enter_number">Enter phone number</string>
+    <string name="lab_message">Message:</string>
+    <string name="lab_enter_message">Enter your message</string>
+    <string name="lab_send">Send</string>
+
+</resources>
